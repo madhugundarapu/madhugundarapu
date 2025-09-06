@@ -71,8 +71,8 @@ I build cloud-native, production-ready systems for startups and SMEs: migrations
 ---
 
 ## 📎 Quick links
-- Portfolio website — `YOUR_USERNAME/portfolio`  
+- Portfolio website — `madhugundarapu/portfolio`  
 - Resume (PDF) — `/assets/resume.pdf`  
-- Contact — `mailto:your.email@example.com`
+- Contact — `mailto:madhugundarapu.mca@gmail.com`
 
 ---
