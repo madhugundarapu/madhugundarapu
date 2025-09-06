@@ -65,7 +65,7 @@ I build cloud-native, production-ready systems for startups and SMEs: migrations
 
 ## 📫 Hire me
 - Email: [madhugundarapu.mca@gmail.com](mailto:madhugundarapu.mca@gmail.com)  
-- LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/madhu-g-mca/)  
+- LinkedIn: [(https://www.linkedin.com/in/madhu-g-mca/)](https://www.linkedin.com/in/madhu-g-mca/)  
 - Portfolio site: http://s3m.site
 
 ---
