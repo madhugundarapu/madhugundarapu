@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 What I do (freelancer-ready)
+## 🚀 What I do 
 I build cloud-native, production-ready systems for startups and SMEs: migrations, infra as code, CI/CD, containerization, and ML deployment. I focus on quick delivery, security, and operational simplicity.
 
 **Services I offer**
