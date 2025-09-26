@@ -8,7 +8,7 @@
 I build cloud-native, production-ready systems for startups and SMEs: migrations, infra as code, CI/CD, containerization, and ML deployment. I focus on quick delivery, security, and operational simplicity.
 
 **Services I offer**
-- Cloud migrations & architecture (AWS / Azure)  
+- Cloud migrations & architecture (AWS)  
 - Infrastructure as Code: Terraform + modular patterns  
 - CI/CD pipelines: GitHub Actions / Jenkins / Docker → Kubernetes/ECS  
 - Containerize & Deploy ML models (Flask/FastAPI + Docker + ECR/ECS)  
@@ -34,7 +34,7 @@ I build cloud-native, production-ready systems for startups and SMEs: migrations
 ---
 
 ## 🛠️ Tech Stack
-**Cloud:** AWS (S3, EC2, ECS, EKS), Azure basics  
+**Cloud:** AWS (S3, EC2, ECS, EKS) 
 **IaC:** Terraform, CloudFormation  
 **Containers:** Docker, Kubernetes (EKS)  
 **CI/CD:** GitHub Actions, Jenkins  
@@ -46,15 +46,6 @@ I build cloud-native, production-ready systems for startups and SMEs: migrations
 1. Quick discovery call → define deliverables & timeline  
 2. Prototype/PoC (1–2 weeks) → iterate with client feedback  
 3. Deliver & handover docs + runbook  
-4. Optional maintenance/monitoring package
-
----
-
-## 💼 Pricing (example)
-- Small fixes/automation: ₹2,500–5,000 (one-off)  
-- Small app infra + CI/CD: ₹15,000–40,000 (project)  
-- Monthly retainer (ops & monitoring): ₹10,000/month  
-
 
 ---
 
@@ -64,8 +55,8 @@ I build cloud-native, production-ready systems for startups and SMEs: migrations
 ---
 
 ## 📫 Hire me
-- Email: [madhugundarapu.mca@gmail.com](mailto:madhugundarapu.mca@gmail.com)  
-- LinkedIn: [(https://www.linkedin.com/in/madhu-g-mca/)](https://www.linkedin.com/in/madhu-g-mca/)  
+- Email: [work.madhug@gmail.com](mailto:work.madhug@gmail.com)  
+- LinkedIn: [(https://www.linkedin.com/in/madhu-g-mca/)](https://www.linkedin.com/in/madhugworks/)  
 - Portfolio site: http://s3m.site
 
 ---
@@ -73,6 +64,6 @@ I build cloud-native, production-ready systems for startups and SMEs: migrations
 ## 📎 Quick links
 - Portfolio website — `madhugundarapu/portfolio`  
 - Resume (PDF) — `/assets/resume.pdf`  
-- Contact — `mailto:madhugundarapu.mca@gmail.com`
+- Contact — `mailto:work.madhug@gmail.com`
 
 ---
