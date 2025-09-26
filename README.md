@@ -56,7 +56,7 @@ I build cloud-native, production-ready systems for startups and SMEs: migrations
 
 ## 📫 Hire me
 - Email: [work.madhug@gmail.com](mailto:work.madhug@gmail.com)  
-- LinkedIn: [(https://www.linkedin.com/in/madhu-g-mca/)](https://www.linkedin.com/in/madhugworks/)  
+- LinkedIn: [(https://www.linkedin.com/in/madhugworks/)](https://www.linkedin.com/in/madhugworks/)  
 - Portfolio site: http://s3m.site
 
 ---
